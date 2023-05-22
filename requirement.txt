@@ -1,0 +1,4 @@
+pytesseract
+pybind11
+fastwer
+opencv-python
